@@ -1,8 +1,8 @@
-# slack-bot-pov
+# say-hello-app
 
 ## POC of slack bot
 
-https://github.com/sawicki-rafal/slack-bot-poc
+https://github.com/codesthq/slack-bot-poc
 
 ## App prerequisites
 
